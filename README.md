@@ -47,8 +47,8 @@ Dedicated **Platform Engineer** and **Cloud Architect** focused on building resi
 ### 📊 GitHub Activity & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham7289&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham7289&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratham7289&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&hide_title=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham7289&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&hide_title=true" height="195" alt="Top Languages" />
 </p>
 
 <p align="center">
