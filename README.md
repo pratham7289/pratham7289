@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>�️ Pratham Sharma</h1>
+  <h1>🛡️ Pratham Sharma</h1>
   <p><b>Platform Engineer | AWS Certified Solutions Architect | CKA Aspirant</b></p>
   
   <p>
@@ -15,68 +15,41 @@
 
 ### 🚀 Professional Summary
 
-Dedicated **Platform Engineer** with a focus on building secure, scalable, and automated infrastructure. Expert in bridging the gap between development and operations through **Cloud-Native** technologies and **Traditional Infrastructure** management.
+Dedicated **Platform Engineer** and **Problem Solver** with a deep focus on building secure, scalable, and automated infrastructure. Experienced in managing **Hybrid Cloud (AWS)** and **On-Premise** environments with a strong background in academic research and competitive speech.
 
-- ☁️ **Cloud Expertise**: Specialized in **AWS Architecture** (Certified Solutions Architect Associate).
-- ☸️ **Orchestration**: Deep dive into **Kubernetes**; actively preparing for CKA.
-- 🏢 **Hybrid Infrastructure**: Hands-on experience in **On-Premise** server architecture, lifecycle management, and deployment scaling.
-- 🛠️ **Infrastructure as Code**: Automation enthusiast using **Terraform** and **Ansible** to eliminate manual configuration drift.
-- 🛡️ **Security First**: Implementing DevSecOps principles, vulnerability management, and infrastructure hardening.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
-      <br />AWS
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
-      <br />Kubernetes
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
-      <br />Docker
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40" alt="Terraform" />
-      <br />Terraform
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40" alt="Ansible" />
-      <br />Ansible
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins" />
-      <br />Jenkins
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-      <br />Linux
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-      <br />Database
-    </td>
-  </tr>
-</table>
+- ☁️ **Cloud & DevOps**: Expertise in **AWS, Docker, Kubernetes**, and **GitOps (ArgoCD)**.
+- 🏢 **Hybrid & On-Prem**: Experienced with **HAProxy, Redis, DMZ, NFS, Harbor, Kafka**, and **Podman**.
+- 🛠️ **Infrastructure as Code**: Automation via **Terraform, Ansible**, and **Chef**.
+- 📊 **Monitoring & Observability**: Implementing full-stack monitoring with **Prometheus** and **Grafana**.
+- 🛡️ **Security**: Committed to DevSecOps, **SonarQube** integration, and infrastructure hardening.
 
 ---
 
-### 📊 Performance Metrics
+### 🛠️ Technical Arsenal
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, GitOps (ArgoCD), Serverless, Nginx, Harbor, Podman |
+| **CI/CD & Git** | GitHub, GitLab, Jenkins, SonarQube, Multi-stage CI/CD Pipelines |
+| **Automation & IaC** | Terraform, Ansible, Chef |
+| **Monitoring & Data** | Prometheus, Grafana, Postgres DB, Redis, Kafka |
+| **Networking & Infra** | HAProxy, DMZ, NFS, Proxy, Computer Networks, Linux Admin |
+| **Languages & Fundamentals** | Python, C++, Shell Scripting, SQL, DBMS, OS, Advanced Problem Solving |
+
+---
+
+### 🏆 Achievements & Education
+
+- 🎓 **B-Tech in Computer Science and Engineering** | **CGPA: 8.97/10.0**
+- 🎖️ **COMPEX Scholarship Holder**: Awarded by the **Embassy of India** for academic excellence.
+- 📚 **Published Author**: Co-authored a book chapter [**"Computer Vision in Smart Agriculture"**](https://novapublishers.com/shop/the-future-of-smart-agriculture/) published by **Nova Science Publishers**.
+- 🗣️ **Best Speaker Award**: Recognized at the **Nobel Model United Nations (NMUN)**.
+- ☸️ **CKA in Progress**: Actively mastering Kubernetes orchestration.
+- 🛡️ **AWS Certified**: Solutions Architect Associate (SAA).
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratham7289&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Pratham's Stats" height="195" />
@@ -90,7 +63,7 @@ Dedicated **Platform Engineer** with a focus on building secure, scalable, and a
 ---
 
 <p align="center">
-  <b>⚡ "Technical precision meets market strategy — Day Trader by morning, Platform Engineer by day."</b>
+  <b>"Bridging complexity with automation. Day Trader by morning, Platform Engineer by day."</b>
 </p>
 
 <div align="center">
